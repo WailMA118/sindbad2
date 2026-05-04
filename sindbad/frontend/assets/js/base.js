@@ -2,6 +2,7 @@
    base.js  –  Logic for base.html
    ───────────────────────────────────────────────── */
 
+/* عشان يحمل الاجزاء بعد ما الصفحة تجهز */
 document.addEventListener("DOMContentLoaded", () => {
   loadFeaturedTrip();
   loadFeaturedHotel();
